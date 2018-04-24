@@ -1,0 +1,10 @@
+/Users/jamesrichardson/dotnet_hello_world/bin/Debug/netcoreapp2.0/dotnet_hello_world.deps.json
+/Users/jamesrichardson/dotnet_hello_world/bin/Debug/netcoreapp2.0/dotnet_hello_world.runtimeconfig.json
+/Users/jamesrichardson/dotnet_hello_world/bin/Debug/netcoreapp2.0/dotnet_hello_world.runtimeconfig.dev.json
+/Users/jamesrichardson/dotnet_hello_world/bin/Debug/netcoreapp2.0/dotnet_hello_world.dll
+/Users/jamesrichardson/dotnet_hello_world/bin/Debug/netcoreapp2.0/dotnet_hello_world.pdb
+/Users/jamesrichardson/dotnet_hello_world/obj/Debug/netcoreapp2.0/dotnet_hello_world.csproj.CoreCompileInputs.cache
+/Users/jamesrichardson/dotnet_hello_world/obj/Debug/netcoreapp2.0/dotnet_hello_world.AssemblyInfoInputs.cache
+/Users/jamesrichardson/dotnet_hello_world/obj/Debug/netcoreapp2.0/dotnet_hello_world.AssemblyInfo.cs
+/Users/jamesrichardson/dotnet_hello_world/obj/Debug/netcoreapp2.0/dotnet_hello_world.dll
+/Users/jamesrichardson/dotnet_hello_world/obj/Debug/netcoreapp2.0/dotnet_hello_world.pdb
