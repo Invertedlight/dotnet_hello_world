@@ -6,6 +6,8 @@ namespace dotnet_hello_world
     {
         static void Main(string[] args)
         {
+            var i = "Maria";
+            var j = 9;
             Console.WriteLine("Hello World!");
         }
     }
